@@ -1,0 +1,4 @@
+﻿{
+  "name": "ApplyCardWindow",
+  "references":[ "GUID:cf41ca4268c4a3148beca08d90704e82", "GUID:bdd73e75b8a541a4ad0c9e5c766da2ef", "GUID:d1a293cde67b45a6ac5422a77100acfb" ]
+}
